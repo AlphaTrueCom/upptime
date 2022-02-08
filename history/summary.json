@@ -16,5 +16,23 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "AlphaTrueIo",
+    "url": "https://alphatrue.io",
+    "icon": "https://favicons.githubusercontent.com/alphatrue.io",
+    "slug": "alpha-true-io",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
+    "dailyMinutesDown": {}
   }
 ]
