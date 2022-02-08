@@ -11,5 +11,5 @@ assignees:
   - lugondev
 
 status-website:
-  baseUrl: /upptime
-  name: Your Status Website
+  cname: uptime.alphatrue.io
+  name: AlphaTrue Uptime Status
