@@ -5,3 +5,7 @@ repo: upptime
 sites:
   - name: AlphaTrueCom
     url: https://alphatrue.com
+
+assignees:
+  - toanalien
+  - lugondev
