@@ -9,3 +9,7 @@ sites:
 assignees:
   - toanalien
   - lugondev
+
+status-website:
+  baseUrl: /upptime
+  name: Your Status Website
