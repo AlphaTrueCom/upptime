@@ -4,9 +4,9 @@
     "url": "https://alphatrue.com",
     "icon": "https://favicons.githubusercontent.com/alphatrue.com",
     "slug": "alpha-true-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 113,
     "timeMonth": 96,
     "timeYear": 105,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   },
   {
     "name": "AlphaTrueIo",
     "url": "https://alphatrue.io",
     "icon": "https://favicons.githubusercontent.com/alphatrue.io",
     "slug": "alpha-true-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +35,8 @@
     "timeWeek": 78,
     "timeMonth": 133,
     "timeYear": 116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-03": 0
+    }
   }
 ]
