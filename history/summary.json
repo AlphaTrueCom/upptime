@@ -4,19 +4,19 @@
     "url": "https://alphatrue.com",
     "icon": "https://favicons.githubusercontent.com/alphatrue.com",
     "slug": "alpha-true-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 105,
-    "timeDay": 134,
-    "timeWeek": 113,
+    "timeDay": 113,
+    "timeWeek": 111,
     "timeMonth": 96,
     "timeYear": 105,
     "dailyMinutesDown": {
-      "2022-04-03": 0
+      "2022-04-03": 10
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://alphatrue.io",
     "icon": "https://favicons.githubusercontent.com/alphatrue.io",
     "slug": "alpha-true-io",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 116,
-    "timeDay": 92,
-    "timeWeek": 78,
-    "timeMonth": 133,
+    "timeDay": 98,
+    "timeWeek": 81,
+    "timeMonth": 132,
     "timeYear": 116,
     "dailyMinutesDown": {
-      "2022-04-03": 0
+      "2022-04-03": 10
     }
   }
 ]
