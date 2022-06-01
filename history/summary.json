@@ -4,7 +4,7 @@
     "url": "https://alphatrue.com",
     "icon": "https://favicons.githubusercontent.com/alphatrue.com",
     "slug": "alpha-true-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 361,
     "timeYear": 212,
     "dailyMinutesDown": {
+      "2022-06-01": 0,
       "2022-04-03": 10
     }
   },
